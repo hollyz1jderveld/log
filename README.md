@@ -2,6 +2,8 @@
 
 ***key***: ✩*resarch* / ✬*community* / ★*publishing* / ✶*education* / ✪*writing* / ⁂*speaking*
 
+2025  ⁂  [Poetic summarisation and node-taking at *Symposium Universal Language I: Human-Computer Interaction*](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction)
+
 2025  ★  [Collaborative editing for *Plenty is much, I'm managing*](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
 
 2025  ✪  [Destroying This Means Tableau, Laure Prouvost p.18](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
