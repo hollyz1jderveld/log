@@ -1,6 +1,6 @@
 # log
 
-***key***: ✩*resarch* / ✬*community* / ★*publishing* / ✶*education* / ✪*writing* / ⁂*speaking*
+***key***: ✩*resarch* / ✬*community* / ★*publishing* / ✶*education* / ✪*writing* / ⁂*speaking* / ~*ongoing*
 
 2025  ⁂  [Poetic summarisation and node-taking at *Symposium Universal Language I: Human-Computer Interaction*](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction)
 
@@ -8,9 +8,9 @@
 
 2025  ✪  [Destroying This Means Tableau, Laure Prouvost p.18](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
 
-2025  ✩  Technical research support, Re/Presenting Europe     
+2025  ✩  Technical research support, Re/Presenting Europe ~     
 
-2025  ✬  Event coordination, Internet Archive Europe      
+2025  ✬  Event coordination, Internet Archive Europe ~      
 
 2025  ★  [Calling card project](https://www.are.na/holly-zijderveld/calling-card-isitobdbvje)
 
