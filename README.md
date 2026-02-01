@@ -2,6 +2,8 @@
 
 ***key***: ✩*resarch* / ✬*community* / ★*publishing* / ✶*education* / ✪*writing* / ⁂*speaking* / ~*ongoing*
 
+2026  ★  [Extra Terrestrial Zine Fair, hosted by XPUB at Dokhuis Rotterdam](https://hub.xpub.nl/cerealbox/xtraterrestrial/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
+
 2025  ⁂  [Poetic summarisation and node-taking at *Symposium Universal Language I: Human-Computer Interaction*](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction)
 
 2025  ★  [Collaborative editing for *Plenty is much, I'm managing*](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
