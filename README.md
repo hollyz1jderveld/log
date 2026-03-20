@@ -1,6 +1,6 @@
 # log
 
-***key***: ✩*resarch* / ✬*community* / ★*publishing* / ✶*education* / ✪*writing* / ⁂*speaking* / ~*ongoing*
+***key***: ✩*research* / ✬*community* / ★*publishing* / ✶*education* / ✪*writing* / ⁂*speaking* / ~*ongoing*
 
 2026  ✪  [Technological Craft, in *almanac.sh*](https://publications.servus.at/2026-almanac.sh/almanac.html#third-moon)
 
@@ -22,7 +22,7 @@
 
 2025  ✶  Gruaduation MSc Global Ethnography, Leiden University 
 
-2025  ✪  [Knitted Binaries: The intersection of craft and code (MSc Thesis)](https://studenttheses.universiteitleiden.nl/handle/1887/4257969?solr_nav[id]=3c74892a3c239f1f8adb&solr_nav[page]=0&solr_nav[offset]=1) 
+2025  ✩  [Knitted Binaries: The intersection of craft and code (MSc Thesis)](https://studenttheses.universiteitleiden.nl/handle/1887/4257969?solr_nav[id]=3c74892a3c239f1f8adb&solr_nav[page]=0&solr_nav[offset]=1) 
 
 2025  ⁂  [Crafting machines and crafting the machine: Technology in and as craft, at SIEF2025](https://www.siefhome.org/congresses/sief2025/programme#16116)
 
@@ -32,7 +32,7 @@
 
 2024  ✶  Graduation BSc Cultural Anthropology and Development Sociology, Leiden University
 
-2024  ✪  [Talking About Sex Robots: Mapping controversy in sex robot discourse (BSc Thesis)](https://www.researchgate.net/publication/382625206_Talking_About_Sex_Robots_Mapping_academic_controversy_in_sex_robot_discourse)
+2024  ✩  [Talking About Sex Robots: Mapping controversy in sex robot discourse (BSc Thesis)](https://www.researchgate.net/publication/382625206_Talking_About_Sex_Robots_Mapping_academic_controversy_in_sex_robot_discourse)
 
 2022  ⁂  Panel on the Accessibility of Science, ABv Dag van Anthropologie
 
