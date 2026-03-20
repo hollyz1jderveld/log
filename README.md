@@ -26,7 +26,7 @@
 
 2025  ⁂  [Crafting machines and crafting the machine: Technology in and as craft, at SIEF2025](https://www.siefhome.org/congresses/sief2025/programme#16116)
 
-2025  ✩  [Self Model Making research group](https://supergijs.com/researchgroup.html)
+2025  ✩  [Self Model Making research group](https://supergijs.com/researchgroup.html) ~
 
 2024  ✩  Research Assistant to Rodrigo Ochigame
 
