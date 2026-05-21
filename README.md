@@ -1,8 +1,12 @@
 # log
 
-***key***: ✩*research* / ✬*community* / ★*publishing* / ✶*education* / ✪*writing* / ⁂*speaking* / ~*ongoing*
+***key***: ✩*research* / ✬*community* / ★*publishing* / ✶*education* / ✪*writing* / ⁂*speaking* / ~*ongoing* / <3*poem*
 
 2026  ✪  [Technological Craft, in *almanac.sh*](https://publications.servus.at/2026-almanac.sh/almanac.html#third-moon)
+
+2026  ✩  Podcast production and editing, [Unsettling Knowledge](https://soundcloud.com/utrechtuniversity/sets/unsettling-knowledge) (since episode 28), as Technical Support Officer for [Re/Presenting Europe](https://re-presentingeurope.nl) ~
+
+2026  ✩  Digital archive management, Sport Historia, as Technical Support Officer for [Re/Presenting Europe](https://re-presentingeurope.nl) ~
 
 2026  ★  [Extra Terrestrial Zine Fair, hosted by XPUB at Dokhuis Rotterdam](https://hub.xpub.nl/cerealbox/xtraterrestrial/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 
@@ -10,9 +14,11 @@
 
 2025  ★  [Collaborative editing for *Plenty is much, I'm managing*](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
 
-2025  ✪  [Destroying This Means Tableau, Laure Prouvost p.18, in *Plenty is much, I'm managing* published by Fieldnotes](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
+2025  ✪  [Destroying This Means Tableau, Laure Prouvost p.18, in *Plenty is much, I'm managing* published by Fieldnotes](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf) <3
 
-2025  ✩  Technical research support, Re/Presenting Europe ~     
+2025  ✩  Digital archive management & digitising, [Culture Capsule](https://culturecapsule.nl), as Technical Support Officer for [Re/Presenting Europe](https://re-presentingeurope.nl) ~
+
+2025  ✩  Technical Research Support, [Re/Presenting Europe](https://re-presentingeurope.nl) ~
 
 2025  ✬  Event coordination, Internet Archive Europe ~      
 
@@ -38,10 +44,10 @@
 
 2021  ★  [Journal of Erato Issue Two: Hometown](https://www.yumpu.com/en/document/view/65812999/issue-two-hometown)
 
-2021  ✪  [Don't be Surprised (A found poem after 'Train Song' by Feist) p.33](https://warninglines.com/vol02/)
+2021  ✪  [Don't be Surprised (A found poem after 'Train Song' by Feist) p.33](https://warninglines.com/vol02/) <3
 
 2021  ✪  [Clementine](https://spillovermagazine.wordpress.com/issue-one-message/)
 
-2021  ✪  [Make My Heart Drop (After 'Take Me Somewhere Nice', a film by Ena Sendijarević](https://holyflea.wordpress.com/wp-content/uploads/2021/04/holyflea-issue-one.pdf)
+2021  ✪  [Make My Heart Drop (After 'Take Me Somewhere Nice', a film by Ena Sendijarević](https://holyflea.wordpress.com/wp-content/uploads/2021/04/holyflea-issue-one.pdf) <3
 
 2020  ★  [Journal of Erato Issue One](https://www.yumpu.com/en/document/view/65814383/journal-of-erato-issue-1)
