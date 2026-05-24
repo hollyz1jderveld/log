@@ -2,6 +2,8 @@
 
 ***key***: ✩*research* / ✬*community* / ★*publishing* / ✶*education* / ✪*writing* / ⁂*speaking* / ~*ongoing* / <3*poem*
 
+2026  ✪  [A Eulogy for Mii](https://tommi.space/mii-eulogy/), written with [Tommi](https://tommi.space) for [Sevgi's](https://sevgi.gromits.space) Resurrecting Networks workshop at the [Internet Archive Europe](https://internetarchive.eu)
+
 2026  ✪  [Technological Craft, in *almanac.sh*](https://publications.servus.at/2026-almanac.sh/almanac.html#third-moon)
 
 2026  ✩  Podcast production and editing, [Unsettling Knowledge](https://soundcloud.com/utrechtuniversity/sets/unsettling-knowledge) (since episode 28), as Technical Support Officer for [Re/Presenting Europe](https://re-presentingeurope.nl) ~
