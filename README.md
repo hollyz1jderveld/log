@@ -2,6 +2,8 @@
 
 ***key***: ✩*research* / ✬*community* / ★*publishing* / ✶*education* / ✪*writing* / ⁂*speaking* / ~*ongoing* / <3*poem*
 
+2026  ★  Cyberia Radio, as part of [*Fanon Radio*](https://fanon.radio/)'s 12 hour opening marathon
+
 2026  ✪  [A Eulogy for Mii](https://tommi.space/mii-eulogy/), written with [Tommi](https://tommi.space) for [Sevgi's](http://sevgi.gromits.space/) Resurrecting Networks workshop at the [Internet Archive Europe](https://internetarchive.eu)
 
 2026  ✪  [Technological Craft, in *almanac.sh*](https://publications.servus.at/2026-almanac.sh/almanac.html#third-moon)
