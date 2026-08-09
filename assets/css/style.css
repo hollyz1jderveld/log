@@ -9,6 +9,10 @@ body {
     margin-right: 100px;
 }
 
+h1 {
+    color: #4D3B6B
+}
+
 h2 {
     color: #ff6a80; /* Pastel Pink */
     text-align: center;
