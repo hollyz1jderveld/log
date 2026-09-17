@@ -2,6 +2,8 @@
 
 ***key***: ✩*research* / ✬*community* / ★*publishing* / ✶*education* / ✪*writing* / ⁂*speaking* / ~*ongoing* / <3*poem*
 
+2026  ✪  [Wordsearch for World Telecom Day, in *Orb Speaks Issue 0.5*](https://sincerecorkscrew.neocities.org/orbspeaks0-5) <3
+
 2026  ✬  Facilitating [HTML day](https://2026.html.energy/) at the [Internet Archive Europe](https://www.internetarchive.eu/) *(although, entirely organised by [Zinzy](https://www.zinzy.website/) who listed the participants [here](https://www.zinzy.website/2026/08/08/that-was-html-day-2026-amsterdam-edition/)!!)* 
 
 2026  ★  [Cyberia Radio](https://cyberiaradio.neocities.org), as part of [*Fanon Radio*](https://fanon.radio/)'s 12 hour opening marathon
